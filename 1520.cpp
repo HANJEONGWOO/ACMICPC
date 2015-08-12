@@ -32,7 +32,6 @@ int search(int y, int x)
 	dp[y][x] = cnt;
 
 	return dp[y][x];
-
 }
 
 int main(void)
